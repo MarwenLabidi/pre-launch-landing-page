@@ -2,4 +2,4 @@
 
 # i've done this project using BEM  css methodology
 
-# [Project link](https://marwenez.github.io/pre-launch-landing-page/) 
+# [Project link](https://marwenlabidi.github.io/pre-launch-landing-page/) 
